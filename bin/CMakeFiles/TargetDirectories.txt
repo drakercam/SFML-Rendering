@@ -1,3 +1,0 @@
-/home/draker/sfml_projects/rendering/bin/CMakeFiles/rendering.dir
-/home/draker/sfml_projects/rendering/bin/CMakeFiles/edit_cache.dir
-/home/draker/sfml_projects/rendering/bin/CMakeFiles/rebuild_cache.dir

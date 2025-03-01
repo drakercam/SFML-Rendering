@@ -6,6 +6,14 @@ This project is a simple renderer in C++ using SFML. The project uses CMake vers
 2. Custom depth shading to simulate depth perception
 3. Camera implementation and movability using WASD
 
+# Build and Run
+Run the following commands to build and run
+mkdir bin && cd bin
+cmake ..
+make
+./rendering
+Enjoy!
+
 # About
 Developer: drakercam
 Language: C++
