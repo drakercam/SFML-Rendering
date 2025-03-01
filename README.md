@@ -8,11 +8,11 @@ This project is a simple renderer in C++ using SFML. The project uses CMake vers
 
 # Build and Run
 Run the following commands to build and run
-mkdir bin && cd bin
-cmake ..
-make
-./rendering
-Enjoy!
+1. mkdir bin && cd bin
+2. cmake ..
+3. make
+4. ./rendering
+5. Enjoy!
 
 # About
 Developer: drakercam
